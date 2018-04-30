@@ -1,5 +1,5 @@
 {
-  "name": "moodlemobile",
+  "name": "matemobile",
   "version": "3.4.2",
   "description": "The official app for Moodle.",
   "author": {
@@ -72,7 +72,7 @@
   },
   "main": "www/electron.js",
   "build": {
-    "appId": "com.moodle.moodledesktop",
+    "appId": "com.moodle.matemobile",
     "productName": "Moodle Desktop",
     "files": [
       "!desktop",
