@@ -139,7 +139,7 @@
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" version="4.3.0">
-        <param name="URL_SCHEME" value="http://aula-moodle.com" />
+        <param name="URL_SCHEME" value="http://www.plataformadeaprendizaje.online" />
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" version="2.2.1" />
     <gap:plugin name="cordova-plugin-zip" source="npm" version="3.1.0" />
